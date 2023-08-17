@@ -8,3 +8,4 @@ Functionality:
 Add movie
 Find movie
 Show/Search movie
+Quit 
